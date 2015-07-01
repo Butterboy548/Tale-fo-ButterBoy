@@ -1,0 +1,26 @@
+img {
+ width: 500px
+}
+
+body{
+    background-color: black;background-image:url("http://img01.deviantart.net/0779/i/2011/324/8/6/vs_the_enderdragon_by_phantomkitten-d4gst6g.png"), url("http://fc03.deviantart.net/fs70/i/2013/236/4/b/steve_vs_enderdragon_by_themefinland-d6j9jrp.jpg"); background-repeat: no-repeat;color:yellow;
+}
+
+h1 {
+    color: red;text-decoration: underline;background-image:url("http://backgrounds.picaboo.com/download/48/89/489306120b414e3986969b187a369f14/horizontal_gold.jpg"); url("http://fc03.deviantart.net/fs70/i/2013/236/4/b/steve_vs_enderdragon_by_themefinland-d6j9jrp.jpg");
+}
+
+.title {
+    font-size:325%;
+}
+.archer {
+   width:20%
+}
+
+.witherboss {
+    width: 20%
+}
+
+.first {
+    color: green;
+}
