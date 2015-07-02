@@ -2,7 +2,7 @@ img {
  width: 500px
 }
 
-body{
+body {
     background-color: black;background-image:url("http://img01.deviantart.net/0779/i/2011/324/8/6/vs_the_enderdragon_by_phantomkitten-d4gst6g.png"), url("http://fc03.deviantart.net/fs70/i/2013/236/4/b/steve_vs_enderdragon_by_themefinland-d6j9jrp.jpg"); background-repeat: no-repeat;color:yellow;
 }
 
@@ -22,5 +22,11 @@ h1 {
 }
 
 .first {
-    color: green;
+    color:green;
 }
+
+.storiescontainer {
+    width:70%;
+    margin:auto;
+}
+
