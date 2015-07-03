@@ -6,4 +6,26 @@
 
 body {
     background-color:green
-    
+}
+
+nav li {
+  display: inline;
+ }
+ 
+ nav {
+  margin:0 auto;
+  text-align:center;
+ }
+ 
+nav li a {
+  text-decoration:none;
+  color: yellow;
+ }
+ 
+ nav a:hover {
+  color: orange;
+ }
+ 
+ .active {
+    font-weight:bold;
+ }

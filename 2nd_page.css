@@ -8,3 +8,29 @@ background-image:url("http://fc03.deviantart.net/fs70/i/2013/236/4/b/steve_vs_en
     width:70%;
     margin:auto;
 }
+
+.tale_1 {
+    line-height:175%;
+}
+
+nav li {
+  display: inline;
+ }
+ 
+ nav {
+  margin:0 auto;
+  text-align:center;
+ }
+ 
+nav li a {
+  text-decoration:none;
+  color: red;
+ }
+ 
+ nav a:hover {
+  color: orange;
+ }
+ 
+ .active {
+    font-weight:bold;
+ }
