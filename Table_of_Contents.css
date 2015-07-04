@@ -2,10 +2,11 @@
     font-size:275%;
      border-style: solid;
     border-width: medium;
+    color:green;
 }
 
 body {
-    background-color:green
+    background-image:url("http://www.alpiwood.com/media/immagini/176_z_559A000_ST2V76-Y17.jpg");
 }
 
 nav li {
@@ -19,13 +20,17 @@ nav li {
  
 nav li a {
   text-decoration:none;
-  color: yellow;
+  color: green;
  }
  
  nav a:hover {
-  color: orange;
+  color: red;
  }
  
  .active {
     font-weight:bold;
+ }
+ 
+.table {
+     color:green;
  }

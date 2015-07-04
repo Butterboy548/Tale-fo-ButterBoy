@@ -1,0 +1,41 @@
+body {
+    background-image:url("http://static.planetminecraft.com/files/resource_media/screenshot/1214/2012-04-07_202156_1912671.jpg"); color: white
+}
+
+p {
+    margin-right:  200px ;
+}
+
+iframe {
+    float:left;
+}
+
+img {
+    width:390px;
+}
+
+h1 {
+    color:green;
+}
+
+nav li {
+  display: inline;
+ }
+ 
+ nav {
+  margin:0 auto;
+  text-align:center;
+ }
+ 
+nav li a {
+  text-decoration:none;
+  color: red;
+ }
+ 
+ nav a:hover {
+  color: orange;
+ }
+ 
+ .active {
+    font-weight:bold;
+ }

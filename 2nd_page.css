@@ -1,19 +1,37 @@
-.articletitle{
-    color: green;
-}
 
 body {
-background-image:url("http://fc03.deviantart.net/fs70/i/2013/236/4/b/steve_vs_enderdragon_by_themefinland-d6j9jrp.jpg"); background-repeat: no-repeat; color:blue; background-color: black;}
+background-image:url("http://tatznailz.com/wp-content/uploads/2014/07/silver-background.jpg"); background-repeat: color:blue; background-color: black;}
 .container {
     width:70%;
     margin:auto;
 }
 
 .tale_1 {
-    line-height:175%;
+   line-height:175%;
+   color:green;
+   background-image: 
 }
 
-nav li {
+
+.articletitle {
+    color:blue;
+    text-decoration:none;
+   margin-left: 200px;
+}
+ 
+.articletitle:hover {
+    color:pink;
+}
+
+ img {
+     margin-left: 117px;
+ }
+ 
+ .active {
+    font-weight:bold;
+ }
+ 
+ nav li {
   display: inline;
  }
  
@@ -27,10 +45,18 @@ nav li a {
   color: red;
  }
  
+ video {
+     margin-right:100px;
+ }
+ 
  nav a:hover {
   color: orange;
  }
  
- .active {
-    font-weight:bold;
+ p {
+     color:green;
+ }
+ 
+ h2 {
+     text-decoration:underline;
  }
