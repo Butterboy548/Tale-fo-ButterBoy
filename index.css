@@ -1,8 +1,23 @@
 .title {
     font-size:275%;
+    margin-left:425px;
      border-style: solid;
     border-width: medium;
     color:green;
+    display:inline;
+}
+
+.centerbackground {
+    background-image:url("http://static.planetminecraft.com/files/resource_media/screenshot/1214/2012-04-07_202156_1912671.jpg");
+    background-size: 500px 1000px;
+    background-repeat:no-repeat; 
+    background-attachment:fixed;
+    background-position:center;
+    
+}
+
+h2 {
+    margin-left:425px;
 }
 
 body {
