@@ -3,11 +3,11 @@ img {
 }
 
 body {
-    background-color: black;background-image:url("http://fc03.deviantart.net/fs70/i/2013/236/4/b/steve_vs_enderdragon_by_themefinland-d6j9jrp.jpg"); width:200%; background-repeat: no-repeat;color:yellow;
+    background-color: black; background-image:url("http://fc03.deviantart.net/fs70/i/2013/236/4/b/steve_vs_enderdragon_by_themefinland-d6j9jrp.jpg"); background-repeat: no-repeat;color:yellow; 
 }
 
 h1 {
-    color: red;text-decoration: underline;background-image:url("http://backgrounds.picaboo.com/download/48/89/489306120b414e3986969b187a369f14/horizontal_gold.jpg"); url("http://fc03.deviantart.net/fs70/i/2013/236/4/b/steve_vs_enderdragon_by_themefinland-d6j9jrp.jpg");
+    color: red;text-decoration: underline; background-image:url("http://backgrounds.picaboo.com/download/48/89/489306120b414e3986969b187a369f14/horizontal_gold.jpg");
 }
 
 .title {
