@@ -5,15 +5,22 @@
     border-width: medium;
     color:green;
     display:inline;
+    
 }
 
 .centerbackground {
-    background-image:url("http://static.planetminecraft.com/files/resource_media/screenshot/1214/2012-04-07_202156_1912671.jpg");
-    background-size: 500px 1000px;
+    background-image:url("http://www.danielleemusicstudio.com/wp-content/uploads/2014/05/Dark-Red-Grunge-By-R2krw9.jpg");
+    background-size: 1000px 1000px;
     background-repeat:no-repeat; 
     background-attachment:fixed;
     background-position:center;
-    
+    opacity:0.8;
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0px;
+    left:0px;
+    z-index:1000;
 }
 
 h2 {
@@ -21,7 +28,10 @@ h2 {
 }
 
 body {
-    background-image:url("http://www.alpiwood.com/media/immagini/176_z_559A000_ST2V76-Y17.jpg");
+    background-image:url("http://static.planetminecraft.com/files/resource_media/screenshot/1225/nether_2638364.jpg");
+}
+.list {
+    margin-top:20px;
 }
 
 nav li {
@@ -47,5 +57,9 @@ nav li a {
  }
  
 .table {
+    padding-right:360px;
+    display:block;
+    text-align:center;
+    margin-top:300px;
      color:green;
  }
