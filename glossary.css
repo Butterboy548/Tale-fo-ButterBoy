@@ -4,8 +4,58 @@ th, td {
  
  table {
   border-collapse: collapse;
+  display:inline;
+ }
+ 
+ h1 {
+     margin-top:100px;
  }
  
  tr:hover {
      background-color:gray;
  }
+ 
+ img {
+     float:left;
+ }
+ 
+ .EnderDragon {
+     width:650px ;
+ }
+ 
+ .villager {
+     width:100px;
+ }
+ 
+ 
+nav li {
+  display: inline;
+ }
+ 
+ 
+ nav {
+  margin:0 auto;
+  text-align:center;
+ }
+ 
+nav li a{
+  text-decoration:none;
+  color: red;
+ }
+ 
+ nav a:hover {
+  color: orange;
+ }
+ 
+   nav {
+  position:absolute;
+  top:0px;
+  right:0;
+  left:0;
+  margin-right:auto;
+  margin-left:auto;
+  width:auto;
+  height:50px;
+ border-bottom: thick dashed red;
+ }
+ 
