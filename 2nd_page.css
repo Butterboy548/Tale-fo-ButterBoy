@@ -28,10 +28,14 @@ background-image:url("http://static.planetminecraft.com/files/resource_media/scr
     color:blue;
     text-decoration:none;
    margin-left: 200px;
+    float:left;
+    float:right;
 }
  
 .articletitle:hover {
     color:pink;
+    float:left;
+    float:right;
 }
 
  img {
@@ -82,3 +86,12 @@ nav li a {
  h2 {
      text-decoration:underline;
  }
+ 
+.right {
+    left:600px;
+    width:80px;
+}
+
+.left {
+    width:0px;
+}
