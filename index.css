@@ -62,4 +62,24 @@ nav li a {
     text-align:center;
     margin-top:300px;
      color:green;
+     position:relative;
  }
+ 
+ h1 {
+     float:right;
+     float:left;
+ }
+
+img {
+    width:125px
+}
+
+.left {
+    position:relative;
+    right:650px;
+}
+
+.right {
+    position:relative;
+    right:100px;
+}

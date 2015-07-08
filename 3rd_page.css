@@ -1,6 +1,7 @@
 body {
-    background-image:url("http://static.planetminecraft.com/files/resource_media/screenshot/1214/2012-04-07_202156_1912671.jpg"); color: white
+    background-image:url("http://tatznailz.com/wp-content/uploads/2014/07/silver-background.jpg"); color: purple;
 }
+
 
 p {
     margin-right:  200px ;
@@ -15,7 +16,7 @@ img {
 }
 
 h1 {
-    color:green;
+    color:red;
 }
 
 nav li {
@@ -26,6 +27,7 @@ nav li {
   margin:0 auto;
   text-align:center;
  }
+ 
  
 nav li a {
   text-decoration:none;
@@ -38,4 +40,21 @@ nav li a {
  
  .active {
     font-weight:bold;
+ }
+ 
+   nav {
+  position:fixed;
+  top:0px;
+  right:0;
+  left:0;
+  margin-right:auto;
+  margin-left:auto;
+  width:auto;
+  height:50px;
+  background-color:yellow;
+   opacity:0.7;
+ }
+ 
+ h1 {
+     margin-top:100px;
  }
