@@ -1,6 +1,6 @@
 
 body {
-background-image:url("http://static.planetminecraft.com/files/resource_media/screenshot/1214/2012-04-07_202156_1912671.jpg"); color:blue; background-color: black;}
+background-image:url("http://static.planetminecraft.com/files/resource_media/screenshot/1214/2012-04-07_202156_1912671.jpg"); color:#B85512; background-color: black;}
 .container {
     width:80%;
     margin:auto;
@@ -25,17 +25,13 @@ background-image:url("http://static.planetminecraft.com/files/resource_media/scr
     margin-top:650px
 }
 .articletitle {
-    color:blue;
+    color:#B85512;
     text-decoration:none;
    margin-left: 200px;
-    float:left;
-    float:right;
 }
  
 .articletitle:hover {
     color:pink;
-    float:left;
-    float:right;
 }
 
  img {
@@ -87,11 +83,3 @@ nav li a {
      text-decoration:underline;
  }
  
-.right {
-    left:600px;
-    width:80px;
-}
-
-.left {
-    width:80px;
-}

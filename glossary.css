@@ -1,10 +1,11 @@
 th, td {
-  border: 3px solid black;
+  border: 3px solid #3B3642;
  }
  
  table {
   border-collapse: collapse;
   display:inline;
+  float:left;
  }
  
  h1 {
@@ -15,10 +16,7 @@ th, td {
      background-color:gray;
  }
  
- img {
-     float:left;
- }
- 
+
  .EnderDragon {
      width:650px ;
  }
@@ -59,3 +57,7 @@ nav li a{
  border-bottom: thick dashed red;
  }
  
+ body {
+     background-image:url("http://static.planetminecraft.com/files/resource_media/screenshot/1214/2012-04-07_202156_1912671.jpg");
+     color:yellow;
+ }

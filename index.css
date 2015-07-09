@@ -3,9 +3,9 @@
     margin-left:425px;
      border-style: solid;
     border-width: medium;
-    color:green;
+    color:orange;
     display:inline;
-    
+    text-align:center;
 }
 
 .centerbackground {
@@ -45,7 +45,7 @@ nav li {
  
 nav li a {
   text-decoration:none;
-  color: green;
+  color: orange;
  }
  
  nav a:hover {
@@ -59,9 +59,9 @@ nav li a {
 .table {
     padding-right:360px;
     display:block;
-    text-align:center;
-    margin-top:300px;
-     color:green;
+    text-align: center;
+    margin-top:200px;
+     color:orange;
      position:relative;
  }
  
@@ -77,9 +77,11 @@ img {
 .left {
     position:relative;
     right:650px;
+    width:100px;
 }
 
 .right {
     position:relative;
-    right:100px;
+    right:0px;
+    width:100px;
 }
