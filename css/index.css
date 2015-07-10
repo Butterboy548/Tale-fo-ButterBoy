@@ -1,14 +1,17 @@
-.title {
+header {
+  z-index:10;
+   text-align:center;
+}
+
+header h1 {
     font-size:275%;
-    margin-left:425px;
      border-style: solid;
     border-width: medium;
     color:orange;
     display:inline;
-    text-align:center;
 }
 
-.centerbackground {
+section.centerbackground {
     background-image:url("http://www.danielleemusicstudio.com/wp-content/uploads/2014/05/Dark-Red-Grunge-By-R2krw9.jpg");
     background-size: 1000px 1000px;
     background-repeat:no-repeat; 
@@ -20,11 +23,13 @@
     height:100%;
     top:0px;
     left:0px;
-    z-index:1000;
+    z-index: -1;
+    text-align:center;
 }
 
-h2 {
-    margin-left:425px;
+.tableofcontents {
+  margin: 0 auto;
+  width:300px;
 }
 
 body {
@@ -41,6 +46,7 @@ nav li {
  nav {
   margin:0 auto;
   text-align:center;
+  z-index: 10;
  }
  
 nav li a {
@@ -57,33 +63,21 @@ nav li a {
     font-weight:bold;
  }
  
-.table {
-    padding-right:360px;
-    display:block;
-    text-align: center;
-    margin-top:200px;
-     color:orange;
-     position:relative;
-     font-size:200%;
+section.centerbackground h2 {
+  display:block;
+  text-align: center;
+  margin-top:200px;
+  color:orange;
+  position:relative;
+  font-size:200%;
+  border-bottom:3px solid orange;
+  width:360px;
+  
  }
  
- h1 {
-     float:right;
-     float:left;
- }
 
 img {
-    width:125px
+  
+    width:90px
 }
 
-.left {
-    position:relative;
-    right:650px;
-    width:100px;
-}
-
-.right {
-    position:relative;
-    right:0px;
-    width:100px;
-}

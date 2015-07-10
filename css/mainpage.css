@@ -64,30 +64,10 @@ section {
 }
 
 
-nav li {
-  display: inline-block;
+ nav li {
+  display: inline;
  }
- 
- 
- nav {
-  margin:0 auto;
-  text-align:center;
- }
- 
-nav li a{
-  text-decoration:none;
-  color: red;
-  font-size: 150%;
- }
- 
- nav a:hover {
-  color: orange;
- }
- 
- nav ul {
-     margin:0;
- }
- .active {
+.active {
     font-weight:bold;
     background-color:Navy;
  }
@@ -108,13 +88,58 @@ nav li a{
   padding:0 30px;
  }
  
+ nav li {
+  display: inline-block;
+ }
+ 
+ 
+ nav {
+  margin:0 auto;
+  text-align:center;
+ }
+ 
+nav li a{
+  text-decoration:none;
+  color: red;
+  font-size: 150%;
+ }
+ 
+ nav a:hover {
+  color: orange;
+  background-color:SkyBlue;
+ }
+ 
+ nav ul {
+     margin:0;
+ }
+ 
+ nav {
+  margin:0 auto;
+  text-align:center;
+ }
+ 
+nav li a {
+  text-decoration:none;
+  color: red;
+  font-size: 150%;
+  margin: 0px 10px;
+ }
+ nav a:hover {
+  color: orange;
+ }
+ 
+ nav li {
+    height:100%;
+    padding: 11px 0px;
+}
+ 
  .wither {
      color:purple;
      border: groove thick Aqua;
      height:100px;
      width:350px;
      float:right;
-    margin-right:100px;
+    margin-right:90px;
  }
  
  section {
@@ -141,7 +166,3 @@ nav li a{
     margin-left:700px;
 }
 
-nav li {
-    height:100%;
-    padding: 11px 0px;
-}
