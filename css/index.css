@@ -46,6 +46,7 @@ nav li {
 nav li a {
   text-decoration:none;
   color: orange;
+  font-size: 150%;
  }
  
  nav a:hover {
@@ -63,6 +64,7 @@ nav li a {
     margin-top:200px;
      color:orange;
      position:relative;
+     font-size:200%;
  }
  
  h1 {

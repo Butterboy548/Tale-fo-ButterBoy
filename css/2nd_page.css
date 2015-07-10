@@ -67,6 +67,7 @@ background-image:url("http://static.planetminecraft.com/files/resource_media/scr
 nav li a {
   text-decoration:none;
   color: red;
+  font-size: 150%;
  }
  
  video {

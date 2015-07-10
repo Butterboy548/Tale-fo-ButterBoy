@@ -39,6 +39,7 @@ nav li {
 nav li a{
   text-decoration:none;
   color: red;
+  font-size: 150%;
  }
  
  nav a:hover {
