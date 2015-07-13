@@ -4,7 +4,6 @@ th, td {
  
  table {
   border-collapse: collapse;
-  display:inline;
   float:left;
  }
  
@@ -87,6 +86,7 @@ nav li a {
  }
  nav a:hover {
   color: orange;
+  background-color:purple;
  }
  
  nav li {

@@ -57,6 +57,7 @@ nav li a {
  
  nav a:hover {
   color: red;
+  background-color:purple;
  }
  
  .active {
