@@ -2,7 +2,7 @@
 
 body {
     color:red; 
-    background-image:url("http://static.planetminecraft.com/files/resource_media/screenshot/1214/2012-04-07_202156_1912671.jpg");
+    background-image:url("https://s-media-cache-ak0.pinimg.com/originals/17/e1/6b/17e16b541ae0ff5bc4ab77fc15c5f463.jpg");
 }
 
 h1 {
@@ -11,8 +11,8 @@ h1 {
     background-image:url("http://backgrounds.picaboo.com/download/48/89/489306120b414e3986969b187a369f14/horizontal_gold.jpg");
     display:block;
     width:100%;
-    border-bottom: thick solid yellow;
-    border-top:thick solid yellow;
+    border-bottom: thick solid #4D0017;
+    border-top:thick solid #4D0017;
 }
 
 
@@ -42,14 +42,15 @@ section {
 
 .big {
     line-height:150%;
-    color:#B85512;
-     border: groove thick Limegreen;
+    color:#DEBB73;
+     border: groove thick #9A002F;
      margin-right:225px;
+     margin-left:20px;
 }
 
 .paragraph1 {
      line-height:150%;
-     color:yellow;
+     color:#DEBB73;
      background-repeat: no-repeat;
 
 }
@@ -69,7 +70,8 @@ section {
  }
 .active {
     font-weight:bold;
-    background-color:Navy;
+    background-color:#010000;
+    
  }
  
  
@@ -82,8 +84,8 @@ section {
   margin-left:auto;
   width:auto;
   height:50px;
-  background-color:blue;
-   opacity:0.7;
+  background-color:#9A002F;
+   opacity:0.9;
   border-collapse:collapse;
   padding:0 30px;
  }
@@ -106,7 +108,7 @@ nav li a{
  
  nav a:hover {
   color: orange;
-  background-color:purple;
+  background-color:#4D0017;
  }
  
  nav ul {
@@ -120,7 +122,7 @@ nav li a{
  
 nav li a {
   text-decoration:none;
-  color: red;
+  color: #4D0F30;
   font-size: 150%;
   margin: 0px 10px;
  }
@@ -134,18 +136,17 @@ nav li a {
 }
  
  .wither {
-     color:purple;
-     border: groove thick Aqua;
+     color:#DEBB73;
+     border: groove thick black;
      height:100px;
      width:350px;
      float:right;
-    margin-right:90px;
+    margin-right:20px;
  }
  
  section {
-     background-color:#3CB371;
-     opacity:0.8;
-     
+     background-color:#4D0017;
+     opacity:0.80;
  }
 
  img {
@@ -154,15 +155,17 @@ nav li a {
  }
  
 .witherimg{
-    margin-left:220px;
+    margin-left:260px;
+    opacity:1;
 }
 .dragon {
     top:40px;
     float:right;
+    opacity:1;
 }
 
 .tale2 {
     margin-top:100px;
-    margin-left:700px;
+    text-align:right;
 }
 

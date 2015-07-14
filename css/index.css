@@ -9,6 +9,7 @@ header h1 {
     border-width: medium;
     color:orange;
     display:inline;
+    font-family: "Times New Roman", Georgia, Serif;
 }
 
 section.centerbackground {
@@ -29,7 +30,8 @@ section.centerbackground {
 
 .tableofcontents {
   margin: 0 auto;
-  width:300px;
+  width:350px;
+  font-family: "Impact", Georgia, Serif;
 }
 
 body {
@@ -53,6 +55,7 @@ nav li a {
   text-decoration:none;
   color: orange;
   font-size: 150%;
+  font-family: "Times New Roman", Georgia, Serif;
  }
  
  nav a:hover {

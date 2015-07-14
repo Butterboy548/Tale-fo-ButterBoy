@@ -1,6 +1,6 @@
 body {
-    background-image:url("http://static.planetminecraft.com/files/resource_media/screenshot/1214/2012-04-07_202156_1912671.jpg");
-    color:orange;
+    background-image:url("https://s-media-cache-ak0.pinimg.com/originals/17/e1/6b/17e16b541ae0ff5bc4ab77fc15c5f463.jpg");
+    color:navy;
 }
 
 
@@ -18,16 +18,16 @@ img {
 }
 
 h1 {
-    color:#B85512;
-     margin-top:100px;
+    margin-top:50px;
+    color:black;
 }
-
 nav li {
   display: inline;
  }
 .active {
     font-weight:bold;
-    background-color:Navy;
+    background-color:#010000;
+    
  }
  
  
@@ -40,8 +40,8 @@ nav li {
   margin-left:auto;
   width:auto;
   height:50px;
-  background-color:blue;
-   opacity:0.7;
+  background-color:#9A002F;
+   opacity:0.9;
   border-collapse:collapse;
   padding:0 30px;
  }
@@ -64,6 +64,7 @@ nav li a{
  
  nav a:hover {
   color: orange;
+  background-color:#4D0017;
  }
  
  nav ul {
@@ -77,16 +78,21 @@ nav li a{
  
 nav li a {
   text-decoration:none;
-  color: red;
+  color: #4D0F30;
   font-size: 150%;
-   margin: 0px 10px;
+  margin: 0px 10px;
  }
  nav a:hover {
   color: orange;
-  background-color:purple;
  }
  
  nav li {
     height:100%;
     padding: 11px 0px;
 }
+
+ section {
+     background-color:#4D0017;
+     height: 500px;
+     margin: auto 0;
+ }
