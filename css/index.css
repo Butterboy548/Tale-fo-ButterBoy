@@ -61,6 +61,7 @@ nav li a {
  nav a:hover {
   color: red;
   background-color:purple;
+  zoom:1.05;
  }
  
  .active {

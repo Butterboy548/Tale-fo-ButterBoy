@@ -50,6 +50,7 @@ nav li a{
   text-decoration:none;
   color: red;
   font-size: 150%;
+  zoom:1.05;
  }
  
  nav a:hover {

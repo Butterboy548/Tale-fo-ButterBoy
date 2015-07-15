@@ -65,6 +65,7 @@ nav li a{
  nav a:hover {
   color: orange;
   background-color:#4D0017;
+  zoom:1.05;
  }
  
  nav ul {
