@@ -1,6 +1,6 @@
 body {
     background-image:url("https://s-media-cache-ak0.pinimg.com/originals/17/e1/6b/17e16b541ae0ff5bc4ab77fc15c5f463.jpg");
-    color:navy;
+    color:skyblue;
 }
 
 
@@ -94,5 +94,7 @@ nav li a {
  section {
      background-color:#4D0017;
      height: 500px;
-     margin: auto 0;
- }
+    width:85%;
+    margin:auto;
+}
+ 
