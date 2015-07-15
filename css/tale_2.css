@@ -1,6 +1,6 @@
 body {
-    background-image:url("https://s-media-cache-ak0.pinimg.com/originals/17/e1/6b/17e16b541ae0ff5bc4ab77fc15c5f463.jpg");
-    color:skyblue;
+background-image:url("http://static.planetminecraft.com/files/resource_media/screenshot/1225/nether_2638364.jpg");
+color:skyblue;
 }
 
 
@@ -98,3 +98,10 @@ nav li a {
     margin:auto;
 }
  
+ article {
+  padding: 20px;
+}
+
+article p {
+  text-indent: 47px;
+}

@@ -1,6 +1,7 @@
 
 body {
 background-image:url("https://s-media-cache-ak0.pinimg.com/originals/17/e1/6b/17e16b541ae0ff5bc4ab77fc15c5f463.jpg"); color:#B85512; background-color: black;}
+
 .container {
     width:80%;
     margin:auto;
@@ -19,23 +20,6 @@ background-image:url("https://s-media-cache-ak0.pinimg.com/originals/17/e1/6b/17
     color:#DEBB73;
 }
 
-
-.id {
-    margin-top:450px
-}
-.articletitle {
-    color:navy;
-    text-decoration:none;
-   margin-left: 200px;
-}
- 
-.articletitle:hover {
-    color:pink;
-}
-
- img {
-     margin-left: 117px;
- }
 nav li {
   display: inline;
  }
@@ -116,4 +100,11 @@ nav li a {
  
  section {
      background-color:#4D0017;
+ }
+ 
+ 
+ .endimg {
+     display: inline;
+     width: 320px;
+     margin-right:100px;
  }

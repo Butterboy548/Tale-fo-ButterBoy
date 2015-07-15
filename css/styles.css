@@ -1,0 +1,22 @@
+header {
+  margin-top: 60px;
+  text-align: center;
+  
+}
+
+header a {
+  text-decoration: none;
+  color: navy;
+}
+
+header a:hover {
+  color: pink;
+}
+
+article {
+  padding: 20px;
+}
+
+article p {
+  text-indent: 47px;
+}

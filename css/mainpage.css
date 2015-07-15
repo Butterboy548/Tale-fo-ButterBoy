@@ -2,7 +2,7 @@
 
 body {
     color:red; 
-    background-image:url("https://s-media-cache-ak0.pinimg.com/originals/17/e1/6b/17e16b541ae0ff5bc4ab77fc15c5f463.jpg");
+    background-image:url("http://static.planetminecraft.com/files/resource_media/screenshot/1225/nether_2638364.jpg");
 }
 
 h1 {
@@ -118,6 +118,7 @@ nav li a{
  nav {
   margin:0 auto;
   text-align:center;
+  z-index:2;
  }
  
 nav li a {
@@ -169,3 +170,24 @@ nav li a {
     text-align:right;
 }
 
+.zombie {
+    line-height:150%;
+    color:#DEBB73;
+     border: groove thick orange;
+     margin-right:225px;
+     margin-left:20px;
+     float:left;
+}
+
+.zombieimg {
+    margin-left:670px;
+    bottom:150px;
+}
+
+article {
+  padding: 20px;
+}
+
+article p {
+  text-indent: 47px;
+}
