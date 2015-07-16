@@ -4,6 +4,6 @@ $(document).ready(function(){
     $(".push").show();
   },
     function(){
-    $(".push").hide(10000);
+    $(".push").hide(1000);
   });
 });
